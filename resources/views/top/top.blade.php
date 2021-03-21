@@ -6,6 +6,7 @@
     <h1 style="text-align: center; ">ブログトップ</h1>
     <p style="text-align: center; ">このサイトでは、簡単にユーザー登録ができます。</p>
     <p style="text-align: center; ">早速登録してブログを更新しましょう！</p>
+    <a href="/blog/index">一覧ページへ</a>
   </div>
 </div>
 @endsection
