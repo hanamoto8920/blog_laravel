@@ -1,0 +1,1 @@
+<p style="height: 80px; line-height: 80px; text-align: center; background-color:darkgray; margin-top: 40px;">copyright 2021 hanamoto.</p>
